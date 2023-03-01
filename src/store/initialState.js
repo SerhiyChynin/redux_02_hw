@@ -2,8 +2,9 @@
 
 const initialState = {
     user: [
-       { name: 'Petro',
+        {
          passport: 'NK123536',
+         name: 'Petro',
          age: 35
        }
     ]
